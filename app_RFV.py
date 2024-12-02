@@ -9,7 +9,6 @@ st.set_page_config(page_title = 'RFV', \
 )
 import pandas            as pd
 import numpy             as np
-import xlsxwriter as st
 
 from datetime            import datetime
 from PIL                 import Image
